@@ -14,8 +14,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class SeleniumTest {
 
     private WebDriver webDriver;
-    private String path;
-    
+        
     @BeforeEach
     public void setUp() {
      
@@ -25,7 +24,7 @@ public class SeleniumTest {
 
         // Get file
         File file = new File("src/main/java/com/revature/index.html");
-        path = "file://" + file.getAbsolutePath();
+        String path = "file://" + file.getAbsolutePath();
 
         // Create a new ChromeDriver instance
          ChromeOptions options = new ChromeOptions();
