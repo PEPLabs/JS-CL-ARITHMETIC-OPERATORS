@@ -8,12 +8,12 @@ This lab is designed to help you practice basic and advanced arithmetic operatio
 Open the `arithmetic-functions.js` file and ensure the below tasks are completed so that the test cases pass. The file can be found under the `src/main/java/com/revature` package.
 
 Tasks to Complete:
-[ ] Implement the add() function
-[ ] Implement the subtract() function
-[ ] Implement the multiply() function
-[ ] Implement the divide() function
-[ ] Implement the modulus() function
-[ ] Implement the exponentiate() function
+- [ ] Implement the add() function
+- [ ] Implement the subtract() function
+- [ ] Implement the multiply() function
+- [ ] Implement the divide() function
+- [ ] Implement the modulus() function
+- [ ] Implement the exponentiate() function
 
 ## Running Tests
 
