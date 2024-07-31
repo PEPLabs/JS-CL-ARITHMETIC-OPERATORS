@@ -1,6 +1,6 @@
 # Arithmetic Operators Lab
 
-# Description
+## Description
 This lab is designed to help you practice basic and advanced arithmetic operations in JavaScript.
 
 ## Completing the Lab
