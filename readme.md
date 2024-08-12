@@ -22,3 +22,5 @@ Tasks to Complete:
 
 Below is an example of manually testing the `add()` function:
 ![example manual testing image](/images/man-1.png)
+
+Note: To see the above image(s), please open this file in Preview mode by using the `Ctrl + Shift + V` shortcut (`Command + Shift + V` on Mac)
